@@ -1,4 +1,4 @@
-# Hi there, I'm Yasumasa Sugita (gaga) 👋
+# Hi there, I'm Yasumasa Sugita / 杉田 泰雅(gaga) 👋
 
 ### 🚀 Senior Strategic Sales Executive | AI & Cloud Specialist | GEO Researcher 
 *Bridging Generative Engine Optimization (GEO), cutting-edge cloud infrastructure, AI solutions, and digital advertising ecosystems.*
