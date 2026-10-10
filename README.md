@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Yasumasa Sugita (gaga) 👋
 
-<!--
-**taiga696/taiga696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Senior Strategic Sales Executive | AI & Cloud Specialist | GEO Researcher 
+*Bridging Generative Engine Optimization (GEO), cutting-edge cloud infrastructure, AI solutions, and digital advertising ecosystems.*
+---
 
-Here are some ideas to get you started:
+## 💡 About Me
+- 🏢 **Current Role:** Senior Strategic Sales Executive at **Tencent Cloud** — specializing in AI & Cloud solutions tailored for the Entertainment & Gaming industry.
+- 📈 **Track Record in AdTech & Cloud:**
+  - Led business expansion as **Head of Japan** & 1st overseas member for **TikTok Ad Network (formerly Pangle)**.
+  - Founding member of **TikTok for Business** (Japan).
+  - Founding member of **LINE Ads Platform**.
+  - Product Manager at **FreakOut**.
+- 🎖 **Background:** Former Infantry Soldier in the **Japan Ground Self-Defense Force (JGSDF)**.
+- 🔬 **Research & Focus:** **Generative Engine Optimization (GEO)** Researcher — exploring AI search dynamics, LLM visibility, and generative discovery algorithms.
+- ⚡ **Technical & Domain Focus:** GEO, Cloud Architecture, AI/Media Processing, AdTech Ecosystems, Real-Time Communications, and macOS Workflows/Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech & Research Focus
+**AI, Research & GEO:**
+--- Under Construction
+
+**Cloud & Infrastructure:**
+--- Under Construction
+
+**AdTech Ecosystems:**
+--- Under Construction
+
+---
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+---
+
+## 📫 Connect with Me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yasumasa-sugita/)
