@@ -2,8 +2,8 @@
 
 ### 🚀 Senior Strategic Sales Executive | AI & Cloud Specialist | GEO Researcher 
 *Bridging Generative Engine Optimization (GEO), cutting-edge cloud infrastructure, AI solutions, and digital advertising ecosystems.*
----
 
+---
 ## 💡 About Me
 - 🏢 **Current Role:** Senior Strategic Sales Executive at **Tencent Cloud** — specializing in AI & Cloud solutions tailored for the Entertainment & Gaming industry.
 - 📈 **Track Record in AdTech & Cloud:**
@@ -16,7 +16,6 @@
 - ⚡ **Technical & Domain Focus:** GEO, Cloud Architecture, AI/Media Processing, AdTech Ecosystems, Real-Time Communications, and macOS Workflows/Automation.
 
 ---
-
 ## 🛠 Tech & Research Focus
 **AI, Research & GEO:**
 --- Under Construction
@@ -28,14 +27,5 @@
 --- Under Construction
 
 ---
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
----
-
 ## 📫 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yasumasa-sugita/)
